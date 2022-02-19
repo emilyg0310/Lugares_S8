@@ -8,9 +8,11 @@
         <entry key="..\:/Documentos/movil/Lugares_s/app/src/main/res/layout/app_bar_principal.xml" value="0.17916666666666667" />
         <entry key="..\:/Documentos/movil/Lugares_s/app/src/main/res/layout/content_principal.xml" value="0.27291666666666664" />
         <entry key="..\:/Documentos/movil/Lugares_s/app/src/main/res/layout/fragment_add_lugar.xml" value="0.33" />
-        <entry key="..\:/Documentos/movil/Lugares_s/app/src/main/res/layout/fragment_lugar.xml" value="0.22" />
-        <entry key="..\:/Documentos/movil/Lugares_s/app/src/main/res/layout/lugar_fila.xml" value="0.2" />
+        <entry key="..\:/Documentos/movil/Lugares_s/app/src/main/res/layout/fragment_lugar.xml" value="0.25" />
+        <entry key="..\:/Documentos/movil/Lugares_s/app/src/main/res/layout/fragment_update_lugar.xml" value="0.26871794871794874" />
+        <entry key="..\:/Documentos/movil/Lugares_s/app/src/main/res/layout/lugar_fila.xml" value="0.33" />
         <entry key="..\:/Documentos/movil/Lugares_s/app/src/main/res/menu/activity_main_drawer.xml" value="0.5" />
+        <entry key="..\:/Documentos/movil/Lugares_s/app/src/main/res/menu/delete_menu.xml" value="0.26871794871794874" />
         <entry key="..\:/Documentos/movil/Lugares_s/app/src/main/res/menu/principal.xml" value="0.27291666666666664" />
       </map>
     </option>

@@ -10,7 +10,9 @@ import kotlinx.coroutines.launch
 
 class LugarViewModel(application: Application)
     : AndroidViewModel(application) {
+
     val getAllData : LiveData<List<Lugar>>
+
     private val repository: LugarRepository
     init {
         val lugarDao = LugarDatabase.getDatabase(application).lugarDao()
